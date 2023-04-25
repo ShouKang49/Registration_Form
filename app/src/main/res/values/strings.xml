@@ -7,4 +7,5 @@
     <string name="labelSchool">School</string>
     <string name="labelEmail">E-mail</string>
     <string name="labelPhone">Phone</string>
+    <string name="register">Register</string>
 </resources>
